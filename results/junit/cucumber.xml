@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.396">
+<testcase classname="ebay Home page" name="title of the page" time="0.117">
+<system-out><![CDATA[Given I am on ebayHomepage..................................................passed
+When I get title of the page................................................passed
+Then I validate the page title..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
